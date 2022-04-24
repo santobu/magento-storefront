@@ -10,7 +10,7 @@ in this proeject we built it on top of Magento-Venia ui so we would like to chan
 
 -   Checkout main branch
 -   run yarn install
--   run yarn
+-   run yarn watch
 
 <br />
 
